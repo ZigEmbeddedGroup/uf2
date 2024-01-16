@@ -1,4 +1,8 @@
 .{
     .name = "uf2",
     .version = "0.0.0",
+    .paths = .{
+        "src",
+        "README.md",
+    },
 }
