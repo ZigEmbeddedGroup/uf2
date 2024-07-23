@@ -1,3 +1,7 @@
+# Archived
+
+This repository has been moved into the [monorepo](https://github.com/ZigEmbeddedGroup/microzig/tree/main/website)
+
 # uf2
 
 USB Flashing Format (UF2) for your build.zig
